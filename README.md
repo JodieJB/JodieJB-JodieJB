@@ -1,11 +1,9 @@
 
-
-
 ![Jodie Jacob](assets/profile.jpg)
 
 # 👋 Hi there!
 
-I'm **JodieJB**, a passionate developer and tech enthusiast. Welcome to my GitHub profile!
+I'm **JodieJB**, I`m Master Student at Gadjah Mada Unversity and like play games and theology<br>
 
 ---
 
