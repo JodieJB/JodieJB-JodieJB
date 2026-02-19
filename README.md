@@ -4,10 +4,10 @@
 Hello! I'm JodieJB, a passionate individual dedicated to personal development and lifelong learning. This README serves as a comprehensive biography to give you insight into my interests, skills, and experiences.
 
 ### Background
-- **Name**: Jodie JB
-- **Location**: [Your Location]
-- **Profession**: [Your Profession]
-- **Education**: [Your Educational Background]
+- **Name**: Jodie Alexander Jacob
+- **Location**: Manado, but currently Jogjakarta
+- **Profession**: Master Student at UGM
+- **Education**: Mathematics Education
 
 ### Skills
 - **Programming Languages**: [List of languages]
@@ -15,9 +15,8 @@ Hello! I'm JodieJB, a passionate individual dedicated to personal development an
 - **Soft Skills**: [List of soft skills]
 
 ### Interests
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- Mathematics
+- Theology
 
 ### Projects
 Here's a selection of some of my noteworthy projects:
@@ -31,15 +30,16 @@ Feel free to reach out to me:
 
 ### Current Work
 I'm currently working on:
-- [Current Work or Project]
+- Home School Primaga Manado
 
 ### Hobbies
 Outside of work, I enjoy:
-- [Hobby 1]
-- [Hobby 2]
+- Play Games
+- Reading Bible
+- Swim and Basketball
 
 ### Fun Fact
-Did you know? [Insert a fun fact about yourself]
+Did you know? I hate Vegetables
 
 ---
 
