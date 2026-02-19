@@ -26,7 +26,7 @@ Here's a selection of some of my noteworthy projects:
 
 ### Contact
 Feel free to reach out to me:
-- **Email**: [Your Email]
+- **Email**: gadhend27@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile]
 
 ### Current Work
