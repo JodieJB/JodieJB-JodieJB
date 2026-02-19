@@ -1,20 +1,121 @@
-# Welcome to My GitHub Profile!
+# 👋 Hi there!
 
-Hello! I'm Jodie, a passionate developer dedicated to building innovative solutions. Welcome to my GitHub profile where you can explore my projects and contributions.
+I'm **JodieJB**, a passionate developer and tech enthusiast. Welcome to my GitHub profile!
 
-## Social Media
-- [LinkedIn](https://www.linkedin.com/in/jodie)
-- [Twitter](https://twitter.com/jodie)
-- [Personal Website](https://jodie.com)
+---
 
-## Skills
-- **Languages:** JavaScript, Python, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, VS Code
+## 🌐 Connect With Me
 
-## Projects Showcase
-1. **Project A** - A web application for managing tasks. Built with React and Node.js.
-2. **Project B** - An API for retrieving weather data using Python and Flask.
-3. **Project C** - A mobile application for fitness tracking using React Native.
+You can find me on these platforms:
 
-Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jodiEB)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JodieJB)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jodiEB)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Passionate learner and technology enthusiast
+- 💻 Interested in web development and open source projects
+- 🌱 Currently exploring new technologies
+- ⚡ Love collaborating with creative minds
+- 📍 Location: [Your City, Country]
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:**
+- JavaScript/TypeScript
+- Python
+- HTML & CSS
+- [Add more...]
+
+**Frameworks & Tools:**
+- React / Vue.js
+- Node.js
+- Git & GitHub
+- [Add more...]
+
+**Other Skills:**
+- Problem Solving
+- Team Collaboration
+- Project Management
+
+---
+
+## 📊 GitHub Stats
+
+![JodieJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JodieJB&show_icons=true&theme=radical)
+
+---
+
+## 📁 Featured Projects
+
+### 🎯 Project 1: [Project Name]
+- **Description**: [Brief description of your project]
+- **Tech Stack**: JavaScript, React, Node.js
+- **Link**: [Link to repository]
+
+### 🎯 Project 2: [Project Name]
+- **Description**: [Brief description of your project]
+- **Tech Stack**: Python, Flask
+- **Link**: [Link to repository]
+
+### 🎯 Project 3: [Project Name]
+- **Description**: [Brief description of your project]
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Link**: [Link to repository]
+
+---
+
+## 📈 My Interests
+
+- 💡 Web Development
+- 🤖 Machine Learning
+- 📱 Mobile Development
+- 🎨 UI/UX Design
+- 🔐 Cybersecurity
+
+---
+
+## 🎯 Goals for 2026
+
+- [ ] Contribute more to open source projects
+- [ ] Learn advanced concepts in [Technology]
+- [ ] Build 3+ impactful projects
+- [ ] Help others in the tech community
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- You can add blog posts here -->
+- [Post Title](link)
+- [Post Title](link)
+
+---
+
+## 💬 Fun Fact
+
+> "Coding is like writing poetry – you need creativity and logic!"
+
+---
+
+## 📞 Get In Touch
+
+- 💼 Open to collaborations and freelance work
+- 🤝 Happy to help with projects
+- 📧 Email: your.email@example.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+Feel free to explore my repositories and don't hesitate to reach out!
+
+</div>
