@@ -1,46 +1,20 @@
-# JodieJB's Profile
+# Welcome to My GitHub Profile!
 
-## Biography
-Hello! I'm JodieJB, a passionate individual dedicated to personal development and lifelong learning. This README serves as a comprehensive biography to give you insight into my interests, skills, and experiences.
+Hello! I'm Jodie, a passionate developer dedicated to building innovative solutions. Welcome to my GitHub profile where you can explore my projects and contributions.
 
-### Background
-- **Name**: Jodie Alexander Jacob
-- **Location**: Manado, but currently Jogjakarta
-- **Profession**: Master Student at UGM
-- **Education**: Mathematics Education
+## Social Media
+- [LinkedIn](https://www.linkedin.com/in/jodie)
+- [Twitter](https://twitter.com/jodie)
+- [Personal Website](https://jodie.com)
 
-### Skills
-- **Programming Languages**: [List of languages]
-- **Frameworks/Technologies**: [List of frameworks/technologies]
-- **Soft Skills**: [List of soft skills]
+## Skills
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code
 
-### Interests
-- Mathematics
-- Theology
+## Projects Showcase
+1. **Project A** - A web application for managing tasks. Built with React and Node.js.
+2. **Project B** - An API for retrieving weather data using Python and Flask.
+3. **Project C** - A mobile application for fitness tracking using React Native.
 
-### Projects
-Here's a selection of some of my noteworthy projects:
-- **Project 1**: [Brief description of project 1]
-- **Project 2**: [Brief description of project 2]
-
-### Contact
-Feel free to reach out to me:
-- **Email**: gadhend27@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-
-### Current Work
-I'm currently working on:
-- Home School Primaga Manado
-
-### Hobbies
-Outside of work, I enjoy:
-- Play Games
-- Reading Bible
-- Swim and Basketball
-
-### Fun Fact
-Did you know? I hate Vegetables
-
----
-
-*Last Updated: 2026-02-19 05:49:07 UTC*
+Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
