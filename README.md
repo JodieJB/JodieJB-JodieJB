@@ -1,4 +1,5 @@
-![Jodie Jacob](assets/FotoPP.jpg)
+![Jodie Jacob](assets/profile.jpg)
+
 # 👋 Hi there!
 
 I'm **JodieJB**, a passionate developer and tech enthusiast. Welcome to my GitHub profile!
