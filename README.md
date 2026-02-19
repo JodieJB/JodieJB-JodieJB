@@ -1,7 +1,7 @@
 
 ![Jodie Jacob](assets/profile.jpg)
 
-# 👋 Hi there!
+# 👋 Hi Guys!
 
 I'm **JodieJB**, I`m Master Student at Gadjah Mada Unversity and like play games and theology<br>
 
